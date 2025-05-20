@@ -1,0 +1,15 @@
+
+.app {
+  width: 100%; /* Full width */
+  max-width: 1200px; /* Constrain content width */
+  margin: 0 auto; /* Center content */
+ 
+}
+
+section {
+  width: 100%; /* Ensure sections take the full width */
+  max-width: 1200px; /* Prevent sections from stretching too wide */
+  margin: 0 auto; /* Center each section */
+  padding: 20px;
+  box-sizing: border-box;
+}
